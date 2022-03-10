@@ -9,5 +9,5 @@
 | Data Structures Project | [Wiki Page](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Data-Structures-Project) | 
 | Create Task Project for College Board | [Wiki Page](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Create-Task-Project) | 
 
-edfghjklkjhgfghj
+
 
