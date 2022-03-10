@@ -2,7 +2,11 @@
 
 
 ## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
-### [Test Prep](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Week-0---Test-Prep-Study) (5.1-5.2 Notes, Github Actions)
-### Data Structures Project (Documentation, code snippets, links to Github and Replit)
-### [Create Task Project for College Board](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Create-Task-Project) (Intentions, Snippets, Runtime)
+
+| Github Pages | Wiki Page (with content and links)| 
+| --- | --- |
+| Test Prep | [Wiki Page](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Week-0---Test-Prep-Study) |
+| Data Structures Project | [Wiki Page](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Data-Structures-Project) | 
+| Create Task Project for College Board | [Wiki Page](https://github.com/Gennalynb123/Individual-Algorithmic-Project/wiki/Create-Task-Project) | 
+
 
