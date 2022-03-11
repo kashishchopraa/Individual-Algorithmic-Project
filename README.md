@@ -7,6 +7,6 @@
 | --- | --- |
 | Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep) |
 | Data Structures Project | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/DataStructuresProject) | 
-| Create Task Project for College Board | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/CreateTask
+| Create Task Project for College Board | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/CreateTask)
 
 yhjkl
