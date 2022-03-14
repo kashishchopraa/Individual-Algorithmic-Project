@@ -10,7 +10,7 @@
     <th>Commits</th>
    </tr>
    <tr>
-    <td>Week 0 (Technical Officer)</td>
+    <td>Week 0</td>
     <td> <a href="https://kashishchopraa.github.io/Individual-Algorithmic-Project/">GitHub Page</a> </td>
     <td><a href="https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/1">Commits</a></td>
   </tr>
