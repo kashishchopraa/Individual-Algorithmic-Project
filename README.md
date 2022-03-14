@@ -3,10 +3,10 @@
 
 ## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
 
-| Github Pages | Jekyll Page (with content and links)| 
+| Github Pages | GitHub Page (with content and links)| 
 | --- | --- |
-| Test Prep | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/TestPrep) |
-| Data Structures Project | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/DataStructuresProject) | 
-| Create Task Project for College Board | [Jekyll Page](https://gennalynb123.github.io/Individual-Algorithmic-Project/CreateTask)
+| Test Prep | [GitHub Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/) |
+| Data Structures Project | [GitHub Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/) | 
+| Create Task Project for College Board | [GitHub Page](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)
 
 
