@@ -1,4 +1,4 @@
-# Gennalyn Individual Github Page
+# Kashish Individual Github Page
 
 
 ## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
