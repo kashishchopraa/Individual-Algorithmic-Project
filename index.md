@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Kashish Chopra's GitHub Pages
+
+Week 0 
+
+5.1-5.2 Notes:
+
+5.1 Beneficial and Harmful Effects: Effects of a computing innovation can be both beneficial and harmful
+
+People can create computing innovations
+The way people finish tasks usually changes to include new computing innovations
+Not every effect of a computing innovation can be predicted in advance
+A signal effect can be seen either as beneficial and harmful by different people or even by the same person
+Advances in computing have increased creativity in fields such as medicine and engineering  
+Computing innovations can have an long lasting impact 
+Computing innovation can be used in ways that their creators had not originally intended (ex: world wide web, targeted advertising, machine learning and data mining)
+Some of the ways computing innovations can be sued may have a harmful impact on society, the economy, or culture
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kashishchopraa/Individual-Algorithmic-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
