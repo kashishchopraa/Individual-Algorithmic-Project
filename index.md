@@ -35,8 +35,13 @@ GitHub Actions
 2) Someone that is empowered can help those who are not by sharing their knowledge and providing them with resources if possible. At Del Norte, I could help people who are not as familiar with computers and help them be more comfortable with them
 3) Yes it is blocking digital empowerment because it restricts us from doing certain things. At Del Nirte the wifi restricts us from certain sites which prevents us from seeing our own websites in Computer Science
 
+Data Structures Project:
+[Link to Replit](https://replit.com/@KashishChopra2/Week-0#animation.py)
 
-
+Create Task Project:
+[Runtime Link](http://54.153.91.79/ricknmorty/)
+<img width="616" alt="Screen Shot 2022-03-14 at 9 41 13 PM" src="https://user-images.githubusercontent.com/89224082/158307802-55f1f2bb-5c5c-46a8-be43-7bd7ee7bdcf6.png">
+[Written Responses](https://docs.google.com/document/d/13lMFs-jOwhEutvVQoaM4N0CthP0J4J3o2h7hpNbUnMc/edit?usp=sharing)
 
 
 You can use the [editor on GitHub](https://github.com/kashishchopraa/Individual-Algorithmic-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
