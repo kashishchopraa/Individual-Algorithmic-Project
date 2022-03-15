@@ -46,6 +46,24 @@ Create Task Project:
 [Written Responses](https://docs.google.com/document/d/13lMFs-jOwhEutvVQoaM4N0CthP0J4J3o2h7hpNbUnMc/edit?usp=sharing)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kashishchopraa/Individual-Algorithmic-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
