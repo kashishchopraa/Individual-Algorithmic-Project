@@ -1,5 +1,48 @@
 ## Kashish Chopra's GitHub Pages
 
+Week 1
+
+5.3-5.4 Notes:
+
+5.3 Computing Bias
+
+Bias exists in different computing innovations
+Computing innovations reflect human biases that already exist because of biases written into the algorithms or in the data used by the innovation
+Programmers should take action to reduce bias in algorithms used for computing innovations to combat existing human biases
+Biases can be used at all levels of software development
+
+5.4 Crowdsourcing: Exploring the advantages of a computer’s reach
+
+People participate in problem-solving processes at scale
+Widespread access to information and public data allows the identification of problems, development of solutions, and dissemination of results
+Science has been affected by using “citizen science” to solve problems
+Citizen science is scientific research conducted by distributed individuals, who contribute relevant data to research using their own computing devices
+Crowdsourcing is the practice of obtaining input or information from a large number of people via the internet
+Human capabilities can be enhanced by collaboration via computing
+Crowdsourcing offers new models for collaboration, such as connecting businesses or social causes with funding
+
+Github Actions:
+
+5.3 Computing Bias
+1) I think that the owner did not think this was intentional
+2) He did not think it was intentional
+3) I believe this happened because of the lack of testing among different races 
+4) Yes I think this is harmful
+5) To fix this, development teams should make sure they have more duverse teams to ensure everyone has a say and is not biased towards because of their race or ethnicity
+
+5.4 Crowdsourcing: Exploring the advantages of a computer’s reach
+1) A Crowdsource idea is asking a question through a poll on the slack channel because all of the CS students use that platform
+2) For Del Norte crowdsourcing you could use a google form and send it our via canvas for all students to respond to 
+
+Data Structures Project:
+[Link to Replit](https://replit.com/@KashishChopra2/Fibonacci#main.py)
+
+
+
+
+
+
+
 Week 0 
 
 5.1-5.2 Notes:
