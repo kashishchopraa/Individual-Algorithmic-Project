@@ -6,6 +6,7 @@ def holidaybush(n):
         x+=2
         z-=1
 
-
+def tester():
+  holidaybush(5)
 if __name__ == "__main__":
     holidaybush(5)
