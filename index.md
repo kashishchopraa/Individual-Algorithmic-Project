@@ -17,6 +17,3 @@
 - [Math Function](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/gcm.py)
 - [Palindrome](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/palindrome.py)
 
-
-Data Structures Project:
-[Link to Replit](https://replit.com/@KashishChopra2/Week-0#animation.py)
