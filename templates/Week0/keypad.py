@@ -15,7 +15,5 @@ def keyboard(row1):
 
     print(row1)
 
-if __name__ == "__main__":
-    keyboard(row1)
 
 

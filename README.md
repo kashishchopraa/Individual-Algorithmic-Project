@@ -1,32 +1,17 @@
-# Kashish Individual Github Page
+# Kashish Read Me
+# Kashish Github Page: [link](https://kashishchopraa.github.io/Individual-Algorithmic-Project/")
+# Week 0 Review Ticket: [link](https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/1)
+- [Menu](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/menu2.py)
+- [Tree](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/Tree.py)
+- [Swap](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/swap.py)
+- [Matrix](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/matrix.py)
+- [Animation](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/animation.py)
 
-## [Week 1 - Lists and Loops]
+# Week 1 Review Ticket: [link](https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/2)
+- [List](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/list.py)
+- [Fibbonacci](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/fibonacci.py)
 
-<table>
-   <tr>
-    <th>Name</th>
-    <th>GitHub Page</th>
-    <th>Tickets</th>
-   </tr>
-   <tr>
-    <td>Week 0</td>
-    <td> <a href="https://kashishchopraa.github.io/Individual-Algorithmic-Project/">GitHub Page</a> </td>
-    <td><a href="https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/2">Review Ticket</a></td>
-  </tr>
-</table>
-
-
-## [Week 0 - Test Prep, Data Structures Project, Create Task Project]
-
-<table>
-   <tr>
-    <th>Name</th>
-    <th>GitHub Page</th>
-    <th>Tickets</th>
-   </tr>
-   <tr>
-    <td>Week 0</td>
-    <td> <a href="https://kashishchopraa.github.io/Individual-Algorithmic-Project/">GitHub Page</a> </td>
-    <td><a href="https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/1">Review Ticket</a></td>
-  </tr>
-</table>
+# Week 2 Review Ticket: [link](https://github.com/kamryns/curlycupboard3.0/issues/25)
+- [Factorial (Classes)](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/factorial.py)
+- [Math Function](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/gcm.py)
+- [Palindrome](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/palindrome.py)
