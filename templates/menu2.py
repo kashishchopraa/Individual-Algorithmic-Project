@@ -1,7 +1,7 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-from Week0 import animation, matrix, menu, swap, Tree
+from Week0 import animation, matrix, menu, Tree
 from Week1 import fibonacci, list
 from Week2 import gcd, factorial, factor
 
@@ -23,7 +23,7 @@ sub_menu = [
 
 patterns_sub_menu = [
     ["swap", menu.swap],
-    ["matrix", matrix.matrix ],
+    ["matrix", matrix.tester ],
     ["fibonacci", fibonacci.tester],
     ["factorial", factorial.tester],
     ["GCD", gcd.gcd],
@@ -65,7 +65,7 @@ def datasubmenu():
 
 def patterns_submenu():
     title = "Function Submenu" + banner
-    buildMenu(title, patterns_sub_menu)
+    buildMenu(title, patterns_sub_menu,)
 
 def buildMenu(banner, options):
     # header for menu
@@ -105,6 +105,7 @@ def buildMenu(banner, options):
     except ValueError:
         # not a number error
         print(f"Not a number: {choice}")
+        
     except UnboundLocalError:
         # traps all other errors
         print(f"Invalid choice: {choice}")
