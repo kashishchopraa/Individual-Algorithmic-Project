@@ -1,12 +1,16 @@
-def holidaybush(n):
-    z = n - 1
-    x = 1
-    for i in range(n):
-        print(' ' * z + '+' * x + ' ' * z)
-        x+=2
-        z-=1
+def create_tree(rows):
+  for i in range(0, rows+1):
+        for j in range(0, rows-i):
+            print(end=' ')
+        for k in range(0, i):
+            print('*', end=' ')
+        print()
 
-def tester():
-  holidaybush(5)
-if __name__ == "__main__":
-    holidaybush(5)
+def grow_tree():
+  rows = int(input("Enter height of the tree:  "))
+  create_tree(rows)
+  spaces = lambda a: int(a-2) + a % 2
+  moveRt = " " * spaces(rows)
+  for i in range(3):
+      print(moveRt, end="###")
+      print()

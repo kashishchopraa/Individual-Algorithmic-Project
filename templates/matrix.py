@@ -4,6 +4,4 @@ def matrix():
    for i in numbers:
       print(i)
 
-if __name__ == "__main__":
-   matrix()
 

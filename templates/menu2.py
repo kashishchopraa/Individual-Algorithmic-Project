@@ -1,7 +1,7 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-import animation, keypad, palindrome, swap, Tree, matrix
+import animation, keypad, palindrome, swap, Tree, matrix, menu
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
@@ -15,15 +15,15 @@ main_menu = [
 # Works similarly to main_menu
 sub_menu = [
     ["animation", animation.ship],
-    ["Tree", Tree.holidaybush],
+    ["Tree", Tree.grow_tree],
     #["Palindrome", palindrome.tester],
 ]
 
 patterns_sub_menu = [
-   # ["swap", swap.tester],
-    #["matrix", matrix.tester],
-  
-   
+    ["swap", menu.swap],
+    ["matrix", matrix.matrix ],
+
+
 ]
 
 # Menu banner is typically defined by menu owner
