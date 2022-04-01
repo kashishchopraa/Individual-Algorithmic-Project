@@ -1,17 +1,7 @@
-# Kashish Read Me
-# Kashish Github Page: [link](https://kashishchopraa.github.io/Individual-Algorithmic-Project/")
-# Week 0 Review Ticket: [link](https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/1)
-- [Menu](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/menu2.py)
-- [Tree](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/Tree.py)
-- [Swap](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/swap.py)
-- [Matrix](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/matrix.py)
-- [Animation](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week0/animation.py)
+{% include navigation.html %}
+Create Task Project:
+[Runtime Link](http://54.153.91.79/ricknmorty/)
 
-# Week 1 Review Ticket: [link](https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/2)
-- [List](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/list.py)
-- [Fibbonacci](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/fibonacci.py)
+<img width="616" alt="Screen Shot 2022-03-14 at 9 41 13 PM" src="https://user-images.githubusercontent.com/89224082/158307802-55f1f2bb-5c5c-46a8-be43-7bd7ee7bdcf6.png">
 
-# Week 2 Review Ticket: [link](https://github.com/kamryns/curlycupboard3.0/issues/25)
-- [Factorial (Classes)](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/factorial.py)
-- [Math Function](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/gcm.py)
-- [Palindrome](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/palindrome.py)
+[Written Responses](https://docs.google.com/document/d/13lMFs-jOwhEutvVQoaM4N0CthP0J4J3o2h7hpNbUnMc/edit?usp=sharing)
