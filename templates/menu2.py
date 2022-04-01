@@ -3,7 +3,7 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 from Week0 import animation, matrix, menu, swap, Tree
 from Week1 import fibonacci, list
-from Week2 import gcd, factorial, palindrome
+from Week2 import gcd, factorial, factor
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
@@ -27,7 +27,7 @@ patterns_sub_menu = [
     ["fibonacci", fibonacci.tester],
     ["factorial", factorial.tester],
     ["GCD", gcd.gcd],
-
+    ["Factors", factor.tester],
 
 ]
 data_sub_menu = [
