@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ## Kashish Chopra's GitHub Pages
 
 # Kashish Github Page: [link](https://kashishchopraa.github.io/Individual-Algorithmic-Project/)
