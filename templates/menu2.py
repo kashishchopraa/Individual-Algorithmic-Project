@@ -16,7 +16,7 @@ main_menu = [
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["animation", animation.ship],
+    ["animation", animation.cupcake],
     ["Tree", Tree.grow_tree],
    # ["Palindrome", palindrome.tester]
 ]

@@ -19,16 +19,17 @@ def ship_print(position):
     print(ANSI_HOME_CURSOR)
     print(RESET_COLOR)
     sp = " " * position
-    print(sp + "    |\   ")
-    print(sp + "    |/   ")
+    print(sp + "   ❁ ")
+    print(sp + "  ୧ 𐀔   ")
+    print(sp + "  𓋼𓍊𓋼𓍊𓋼𓍊  ")
     print(SHIP_COLOR, end="")
-    print(sp + "\__ |__/ ")
+    print(sp + "ʚ ɞ 𖤐 ༯ ❁  ")
     print(sp + " \____/  ")
     print(RESET_COLOR)
 
 
 # ship function, iterface into this file
-def ship():
+def cupcake():
     # only need to print ocean once
     ocean_print()
 
