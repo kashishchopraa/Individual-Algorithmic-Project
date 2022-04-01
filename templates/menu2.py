@@ -1,7 +1,9 @@
 # menuy.py - function style menu
 # Imports typically listed at top
 # each import enables us to use logic that has been abstracted to other files and folders
-import animation, keypad, palindrome, swap, Tree, matrix, menu
+from Week0 import animation, matrix, menu, swap, Tree
+from Week1 import fibonacci, list
+from Week2 import gcm, factorial, palindrome
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
