@@ -3,7 +3,7 @@
 # each import enables us to use logic that has been abstracted to other files and folders
 from Week0 import animation, matrix, menu, swap, Tree
 from Week1 import fibonacci, list
-from Week2 import gcm, factorial, palindrome
+from Week2 import gcd, factorial, palindrome
 
 # Main list of [Prompts, Actions]
 # Two styles are supported to execute abstracted logic
@@ -18,16 +18,25 @@ main_menu = [
 sub_menu = [
     ["animation", animation.ship],
     ["Tree", Tree.grow_tree],
-    #["Palindrome", palindrome.tester],
+   # ["Palindrome", palindrome.tester]
 ]
 
 patterns_sub_menu = [
     ["swap", menu.swap],
     ["matrix", matrix.matrix ],
+    ["fibonacci", fibonacci.tester],
+    ["factorial", factorial.tester],
+    ["GCD", gcd.gcd],
 
 
 ]
+data_sub_menu = [
+    ["for loop", list.tester1],
+    ["while loop", list.tester2 ],
+    ["recursive loop", list.tester3 ]
+    
 
+]
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -41,6 +50,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Miscellaneous", submenu])
     menu_list.append(["Math", patterns_submenu])
+    menu_list.append(["Data", datasubmenu])
     buildMenu(title, menu_list)
 
 # def submenu
@@ -49,6 +59,9 @@ def menu():
 def submenu():
     title = "Function Submenu" + banner
     buildMenu(title, sub_menu)
+def datasubmenu():
+    title = "Function Submenu" + banner
+    buildMenu(title, data_sub_menu)
 
 def patterns_submenu():
     title = "Function Submenu" + banner
