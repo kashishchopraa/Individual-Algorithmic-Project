@@ -27,22 +27,37 @@ the existence of computing devices that collect and analyze data by continuously
 5.6 -- Safe Computing
 
 risks to privacy can occur from collecting and storing personal data on a computer
+
 personally identifiable information (PII) is information about an individual that identifies, links, relates, or describes them (includes age, race, phone numbers, medical info, financial info)
+
 search engines can record and maintain a history of searches made by users
+
 websites can record and maintain a history of individuals who have viewed their pages
+
 devices, websites, and networks can collect information about a user’s location
+
 technology enables the collection, use and exploitation of information about, by, and for individuals, groups and institutions
+
 search engines can use search history to suggest websites or for targeted marketing
+
 disparate personal data, such as geolocation, cookies, and browsing history, can be aggregated to create knowledge about an individual
+
 PII and other information placed online can be used to enhance a user’s online experiences
+
 PII stored online can be used to simplify making online purchases
+
 commercial and government curation of information may be exploited if privacy and other protections are ignored
+
 once information is placed online, it is difficult to delete
+
 programs can collect your location and record where you have been, how you got there, and how long you were at a given location
+
 information posted to social media services can be used by others; combining information posted on social media and other sources can be used to deduce private information about you
-explain how unauthorized access to computing resources is gained
+
 data sent over public networks can be intercepted, analyzed, and modified; one way that this can happen is through a rogue access point
+
 a rogue access point is a wireless access point that gives unauthorized access to secure networks
+
 a malicious link can be disguised on a web page or in an email message
 
 
