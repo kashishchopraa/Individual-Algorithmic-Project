@@ -13,8 +13,9 @@
 - [List](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/list.py)
 - [Fibbonacci](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week1/fibonacci.py)
 
-# Week 2 Review Ticket: [link](https://github.com/kamryns/curlycupboard3.0/issues/25)
+# Week 2 Review Ticket: [link](https://gi/thub.com/kamryns/curlycupboard3.0/issues/25)
 - [Factorial (Classes)](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/factorial.py)
 - [Math Function](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/gcm.py)
 - [Palindrome](https://replit.com/@KashishChopra2/Individual-Algorithmic-Project#templates/Week2/palindrome.py)
 
+# Week 3 Review Ticket: [link](https://github.com/kashishchopraa/Individual-Algorithmic-Project/issues/5)
