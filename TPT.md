@@ -5,7 +5,7 @@ Week 2
 
 5.5 - Legal and Ethical Concerns
 
-use of computing can raise legal and ethical concerns
+use of computing raises legal and ethical concerns
 material created on a computer is the intellectual property of the creator or an organization
 ease of access and distribution of digitized information raises intellectual property concerns regarding ownership, value, and use
 measures should be taken to safeguard intellectual property
@@ -68,7 +68,7 @@ Week 1
 
 5.3 Computing Bias
 
-gBias exists in different computing innovations
+Bias exists in different computing innovations
 Computing innovations reflect human biases that already exist because of biases written into the algorithms or in the data used by the innovation
 Programmers should take action to reduce bias in algorithms used for computing innovations to combat existing human biases
 Biases can be used at all levels of software development
